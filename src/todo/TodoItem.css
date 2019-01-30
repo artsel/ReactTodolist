@@ -1,0 +1,53 @@
+.done {
+  text-decoration: line-through;
+}
+.important {
+  color: brown;
+}
+.todo-list .list-group-item {
+  font-size: 10px;
+  width: 310px;
+  height: 35px;
+  padding: 0px;
+  margin: 0px;
+  background-color: #eeeeee;
+}
+.todo-list .list-group-item:hover {
+  background-color: #ffffff;
+}
+.todo-list-item {
+  width: 190px;
+  display: inline-block;
+  font-size: 14px;
+  padding: 3px;
+}
+
+.btn {
+  /* height: auto; */
+  font-size: 8px;
+  border-width: 1px;
+  border-style: solid;
+  /* padding:2px; */
+  display: inline-block;
+  margin: 2px 1px;
+}
+.btn-outline-success.done-button {
+  color: #28a745;
+  border-color: #28a745;
+  /*background-color: green;*/
+  /*color: white;*/
+}
+.btn-outline-success.done-button:hover {
+  color: #fff;
+  background-color: #28a745;
+  border-color: #28a745;
+}
+.btn-outline-danger.delete-button {
+  color: #dc3545;
+  border-color: #dc3545;
+}
+.btn-outline-danger.delete-button:hover {
+  color: #fff;
+  background-color: #dc3545;
+  border-color: #dc3545;
+}

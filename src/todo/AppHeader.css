@@ -1,0 +1,18 @@
+.app-header {
+  width: 300px;
+  padding: 5px;
+}
+.app-header h4 {
+  display: block;
+  padding: 1px 15px 1px 15px;
+}
+.app-header .header-doned {
+  display: block;
+  color: black;
+  padding: 1px 15px 3px;
+}
+.app-header .header-active {
+  display: block;
+  color: black;
+  padding: 1px 15px 3px;
+}
