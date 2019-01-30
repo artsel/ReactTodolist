@@ -6,7 +6,6 @@ export const todos = [
     important: true,
     done: false
   },
-
   {
     id: 2,
     title: "Search panel",
@@ -37,7 +36,7 @@ export const todos = [
   },
   {
     id: 6,
-    title: "Drink Coffee whith coocke",
+    title: "Drink Coffee whith cookie",
     text: "Blsdkl s du ie",
     important: false,
     done: false
