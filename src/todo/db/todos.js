@@ -36,7 +36,7 @@ export const todos = [
   },
   {
     id: 6,
-    title: "Drink Coffee whith cookie",
+    title: "Drink coffee with cookie",
     text: "Blsdkl s du ie",
     important: false,
     done: false
